@@ -1,10 +1,11 @@
-      Hi, I am AbdulGaffar
+      			Hi there! I am Gaffar, alias 'GriffGaff'.
 
-Currently working for Startups, developing mobile apps (flutterflow) and providing IT services.
 
-A wannabe Software Engineer, currently learning Software Engineering with African Leadership Group, ALX
+A budding Software Engineer, learning and growing as SWE under the African Leadership Group (school), ALX
 
-I'm looking to collaborate on gigs and projects.
+Currently working/volunteering for Startups as; a junior backend engineer;  mobile app developer (flutterflow) and also providing IT services.
+
+Hit me with collaborations, jams, voluntary works, or anything to hone my skills!
 
  
 
